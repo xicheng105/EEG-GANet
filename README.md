@@ -6,4 +6,5 @@ First, run github_PreTraining for the pre-training of the classification model. 
 Some scripts in this project reference the following repositories: 
 
 https://github.com/Altaheri/EEG-ATCNet 
+
 https://github.com/eriklindernoren/Keras-GAN/blob/master/discogan
