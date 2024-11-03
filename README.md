@@ -1,5 +1,5 @@
 # EEG-GANet
-This is just a temporary repository; we haven't perfected it yet. However, this does not affect the script's operation. 
+This is just a temporary repository; we haven't perfected it yet. 
 
 First, run github_PreTraining for the pre-training of the classification model. Then, run github_FineTuning for the fine-tuning.
 
